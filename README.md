@@ -4,7 +4,7 @@ A simple and elegant Todo List built with **React** and **Tailwind CSS**, design
 
 ## 🔗 Live Demo
 
-👉 [Visit Tudulest](https://tudulest.netlify.app)
+👉 [Visit Tudulest](https://021todolist.netlify.app/)
 
 ---
 
